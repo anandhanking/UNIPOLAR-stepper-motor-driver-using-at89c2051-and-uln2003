@@ -4,6 +4,6 @@ in this post you can find how to make diy unipolar stepper motor driver with ste
 in **89c2051_unipolar_driver** folder you can find files for proteus 8.0.
 in this proteus project you can find the schematic and PCB layout for this project.
 
-in** test_unipolar** you can find the arduino sketch for testing the board.
+in**test_unipolar** you can find the arduino sketch for testing the board.
 
 in **unipolar** folder you can find files for programming at89c2051. (ex. c files and HEX files).
